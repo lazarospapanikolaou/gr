@@ -26,6 +26,6 @@ gallery:
   - image_url: /images/CBS.jpg
   ---
   
-  {% include_relative cs-YOUTUBE.md %}
+  {% include_relative cs-youtube.md %}
 
   {% include slides.html %}
