@@ -1,6 +1,6 @@
 ---
 author: lazaros papanikolaou
-title:"YOUTUBE"
+title: "YOUTUBE"
 image_url: /images/youtube1.jpg
 caption: "To YouTube είναι ιστότοπος, ο οποίος επιτρέπει αποθήκευση, αναζήτηση και αναπαραγωγή ψηφιακών ταινιών. Δημιουργήθηκε
 το Φεβρουάριο του 2005 και το Νοέμβριο του 2006 ονομάστηκε από το περιοδικό Time "Invention of the Year 2006". Τον Οκτώβριο του 
