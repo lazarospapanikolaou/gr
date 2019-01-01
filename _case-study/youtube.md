@@ -11,10 +11,13 @@ categories:
   - method
 tags:
   - YOUTUBE
-  - success
- gallery:
+  - BBC
+  - VEVO
+  - CBS
+  - Abode Flash Video
+gallery:
 image_url: /images/abode flash video.jpg
-caption: "Η εταιρία εδρεύει στο Σαν Μπρούνο της Καλιφόρνια, και χρησιμοποιεί την τεχνολογία Adobe Flash Video για να εμφανιστεί
+caption: "Η εταιρία εδρεύει στο Σαν Μπρούνο της Καλιφόρνια, και χρησιμοποιεί την τεχνολογία Abode Flash Video για να εμφανιστεί
 μια μεγάλη ποικιλία από το περιεχόμενο φτιαγμένο από χρήστες, συμπεριλαμβανομένων των κλιπ ταινιών, κλιπ τηλεόρασης, βίντεο και μουσικής, καθώς και ερασιτεχνικό περιεχόμενο, όπως το video blogging και σύντομα πρωτότυπα βίντεο."
 image_url: /images/BBC.jpg
 image_url: /images/VEVO.jpg
